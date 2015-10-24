@@ -14,6 +14,7 @@
 		6CAE92581BB1C93C007ABE9F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6CAE92571BB1C93C007ABE9F /* Images.xcassets */; };
 		6CAE925B1BB1C93C007ABE9F /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6CAE92591BB1C93C007ABE9F /* LaunchScreen.xib */; };
 		6CAE92671BB1C93C007ABE9F /* xibHeaderTableTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6CAE92661BB1C93C007ABE9F /* xibHeaderTableTests.m */; };
+		6CAE92711BB1FF54007ABE9F /* customXIB.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6CAE92701BB1FF54007ABE9F /* customXIB.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		6CAE92601BB1C93C007ABE9F /* xibHeaderTableTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = xibHeaderTableTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6CAE92651BB1C93C007ABE9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6CAE92661BB1C93C007ABE9F /* xibHeaderTableTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = xibHeaderTableTests.m; sourceTree = "<group>"; };
+		6CAE92701BB1FF54007ABE9F /* customXIB.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = customXIB.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				6CAE92511BB1C93C007ABE9F /* ViewController.h */,
 				6CAE92521BB1C93C007ABE9F /* ViewController.m */,
 				6CAE92541BB1C93C007ABE9F /* Main.storyboard */,
+				6CAE92701BB1FF54007ABE9F /* customXIB.xib */,
 				6CAE92571BB1C93C007ABE9F /* Images.xcassets */,
 				6CAE92591BB1C93C007ABE9F /* LaunchScreen.xib */,
 				6CAE924A1BB1C93C007ABE9F /* Supporting Files */,
@@ -199,6 +202,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6CAE92711BB1FF54007ABE9F /* customXIB.xib in Resources */,
 				6CAE92561BB1C93C007ABE9F /* Main.storyboard in Resources */,
 				6CAE925B1BB1C93C007ABE9F /* LaunchScreen.xib in Resources */,
 				6CAE92581BB1C93C007ABE9F /* Images.xcassets in Resources */,
